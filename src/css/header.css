@@ -1,0 +1,22 @@
+.header-parent{
+  text-align: center;
+}
+
+.cuisine-parent{
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  width: 50%;
+}
+
+.cuisine-btn{
+  width: 100%;
+  color: white;
+  background-color: #ef4444;
+  cursor: pointer;
+  font-size: 15px;
+  border-radius: 0.3rem;
+  padding: 0.5rem 0.7rem;
+  border: none;
+}
+

@@ -41,18 +41,21 @@ export const restaurantsData = [
     ],
 		ratings: [
       {
+        id: 1,
         rating: 2,
         comment: "Disappointing food and slow service",
         revName: "Riya",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5tbKdv1HDbAjPc526SK0yDZuoOmaaOyGNoj_e1q3ngruK2bTqzub3&s=0"
       },
       {
+        id: 2,
         rating: 2,
         comment: "Overpriced menu for mediocre quality",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3uO7UUBnkvtntc2R8Y9krkgWvbl-BTKMazZjg8Ul-gmDgzQeb8I6DIQ&s=0",
         revName: "Krish"
       },
       {
+        id: 3,
         rating: 1,
         comment: "Lackluster flavors and unappealing presentatio",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZ_Xg9XbpVTth91jSsUrrGzlx_v-YZ8pD4YLfGUR4CAdzq_D-DhN_&s=0",
@@ -95,18 +98,21 @@ export const restaurantsData = [
       }],
     ratings: [
       {
+        id: 1,
         rating: 1,
         comment: "Too spicy and unbalaned spices",
         revName: "Riya",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5tbKdv1HDbAjPc526SK0yDZuoOmaaOyGNoj_e1q3ngruK2bTqzub3&s=0"
       },
       {
+        id: 2,
         rating: 5,
 				comment: "Delicious food and exceptional service",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3uO7UUBnkvtntc2R8Y9krkgWvbl-BTKMazZjg8Ul-gmDgzQeb8I6DIQ&s=0",
         revName: "Krish"
       },
       {
+        id: 3,
         rating: 4,
         comment: "A hidden gem with mouthwatering dishes",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZ_Xg9XbpVTth91jSsUrrGzlx_v-YZ8pD4YLfGUR4CAdzq_D-DhN_&s=0",
@@ -150,18 +156,21 @@ export const restaurantsData = [
     ],
     ratings: [
       {
+        id: 1,
         rating: 4,
         comment: "Top-notch cuisine that will leave you craving for more",
         revName: "Riya",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5tbKdv1HDbAjPc526SK0yDZuoOmaaOyGNoj_e1q3ngruK2bTqzub3&s=0"
       },
       {
+        id: 2,
         rating: 1,
         comment: "Uncooked dishes and unresponsive staff",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3uO7UUBnkvtntc2R8Y9krkgWvbl-BTKMazZjg8Ul-gmDgzQeb8I6DIQ&s=0",
         revName: "Krish"
       },
       {
+        id: 3,
         rating: 4,
         comment: "Delivery is quick and waiting time is low",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZ_Xg9XbpVTth91jSsUrrGzlx_v-YZ8pD4YLfGUR4CAdzq_D-DhN_&s=0",
@@ -205,18 +214,21 @@ export const restaurantsData = [
     ],
 		ratings: [
       {
+        id: 1,
         rating: 3,
         comment: "Good food but place is not that clean",
         revName: "Riya",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5tbKdv1HDbAjPc526SK0yDZuoOmaaOyGNoj_e1q3ngruK2bTqzub3&s=0"
       },
       {
+        id: 2,
         rating: 5,
         comment: "Great food and environment",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3uO7UUBnkvtntc2R8Y9krkgWvbl-BTKMazZjg8Ul-gmDgzQeb8I6DIQ&s=0",
         revName: "Krish"
       },
       {
+        id: 3,
         rating: 4,
         comment: "Delivery is quick and waiting time is low",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZ_Xg9XbpVTth91jSsUrrGzlx_v-YZ8pD4YLfGUR4CAdzq_D-DhN_&s=0",
@@ -260,18 +272,21 @@ export const restaurantsData = [
     ],
 		ratings: [
       {
+        id: 1,
         rating: 3,
         comment: "Good food but place is not that clean",
         revName: "Riya",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5tbKdv1HDbAjPc526SK0yDZuoOmaaOyGNoj_e1q3ngruK2bTqzub3&s=0"
       },
       {
+        id: 2,
         rating: 5,
         comment: "Great food and environment",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3uO7UUBnkvtntc2R8Y9krkgWvbl-BTKMazZjg8Ul-gmDgzQeb8I6DIQ&s=0",
         revName: "Krish"
       },
       {
+        id: 3,
         rating: 4,
         comment: "Delivery is quick and waiting time is low",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZ_Xg9XbpVTth91jSsUrrGzlx_v-YZ8pD4YLfGUR4CAdzq_D-DhN_&s=0",
@@ -315,18 +330,21 @@ export const restaurantsData = [
     ],
     ratings: [
       {
+        id: 1,
         rating: 2,
         comment: "Unsatisfactory experience overall",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5tbKdv1HDbAjPc526SK0yDZuoOmaaOyGNoj_e1q3ngruK2bTqzub3&s=0",
 				revName: "Riya"
       },
 			{
+        id: 2,
         rating: 5,
         comment: "Great food and environment",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3uO7UUBnkvtntc2R8Y9krkgWvbl-BTKMazZjg8Ul-gmDgzQeb8I6DIQ&s=0",
         revName: "Krish"
       },
       {
+        id: 3,
         rating: 5,
         comment: "A must-visit restaurant with a 5-star dining experience",
         pp: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZ_Xg9XbpVTth91jSsUrrGzlx_v-YZ8pD4YLfGUR4CAdzq_D-DhN_&s=0",

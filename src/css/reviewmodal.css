@@ -1,0 +1,99 @@
+.modal-background{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-container{
+  width: 20rem;
+  border-radius: 0.3rem;
+  box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem;
+  background-color: white;
+  text-align: center;
+}
+
+.modal-container .modal-body{
+  display: inline-block;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.modal-body input{
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px solid rgba(0,0,0,0.35);
+  box-shadow: rgba(0,0,0,0.35) 0px 1px 10px;
+}
+
+.close-btn{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.close-btn button{
+  background-color: transparent;
+  border: none;
+  font-size: medium;
+  cursor: pointer;
+}
+
+.modal-container .modal-body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.modal-container .modal-footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-container .modal-footer button{
+  width: 6rem;
+  height: 3rem;
+  margin: 1rem;
+  border: none;
+  background-color: cornflowerblue;
+  color: white;
+  border-radius: 0.3rem;
+  font-size: medium;
+  cursor: pointer;
+}
+
+.modal-container .modal-footer .cancel-btn{
+  background-color: crimson;
+}
+
+.avatars{
+  display: flex;
+  width: 100%;
+  padding-left: 0;
+}
+
+.avatars img{
+  width: 100%;
+}
+
+.modal-header h3{
+  margin-bottom: 0;
+}
+
+#finame, #lsname, #bio, #pf-link{
+  padding: 0.5rem;
+  width: 100%;
+  border: none;
+  margin-bottom: 0.3rem;
+  margin-top: 0.3rem;
+}
